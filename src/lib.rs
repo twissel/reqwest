@@ -195,6 +195,7 @@ pub mod unstable {
             Request,
             RequestBuilder,
             Response,
+            Pending
         };
     }
 }
